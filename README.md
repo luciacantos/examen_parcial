@@ -1,3 +1,6 @@
+LINK: https://github.com/luciacantos/examen_parcial
+USUARIO: luciacantos
+
 # Examen Parcial 1: Principios y Patrones del Desarrollo de Software
 
 ## Pregunta 1 (1 Punto):
